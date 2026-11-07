@@ -116,7 +116,7 @@ The Streamlit application provides the following features:
 
 The application loads the previously saved trained models and does not perform model retraining.
 
-**Live Application:** To be added after deployment.
+**Live Application:** https://bank-marketing-classification-2026aj05975.streamlit.app
 
 ## 8. GitHub Repository
 
